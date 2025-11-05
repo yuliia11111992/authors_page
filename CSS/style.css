@@ -416,7 +416,7 @@ body {
     align-items: center;
     gap: 15px;
     padding: 18px 40px;
-background: radial-gradient(circle at center, #f51515 0%, #5a0000 100%);
+background: linear-gradient(135deg, #f51515, #8b0000);
     color: #fff;
     text-decoration: none;
     border-radius: 50px;
