@@ -260,6 +260,7 @@ body {
     box-shadow: 0 20px 60px rgba(220, 38, 38, 0.3);
     margin: 15px;
     transition: all 0.4s ease;
+    object-fit: cover;
 }
 
 .author-card:hover .author-avatar-large {
@@ -267,7 +268,6 @@ body {
     box-shadow: 0 25px 80px rgba(220, 38, 38, 0.4);
 }
 
-/* Floating Badge */
 .author-badge {
     position: absolute;
     bottom: 20px;
@@ -532,5 +532,9 @@ body {
 
     .page-header {
     padding: 100px 20px 20px;
+    }
+
+    .pageau-subtitle {
+  font-size: 1.5rem
     }
 }
