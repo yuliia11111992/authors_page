@@ -133,8 +133,9 @@ body {
     }
 }
 
-.page-subtitle {
+.pageau-subtitle {
     font-size: 2rem;
+    font-style: normal;
     color: #6b7280;
     max-width: 700px;
     margin: 40px auto 0;
@@ -327,6 +328,7 @@ body {
 
 .author-description {
     font-size: 1.4rem;
+    font-style: normal;
     line-height: 1.9;
     color: #4b5563;
     margin-bottom: 35px;
@@ -419,7 +421,7 @@ body {
     align-items: center;
     gap: 15px;
     padding: 18px 40px;
-    background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+background: radial-gradient(circle at center, #f51515 0%, #5a0000 100%);
     color: #fff;
     text-decoration: none;
     border-radius: 50px;
