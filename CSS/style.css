@@ -14,7 +14,7 @@ body {
 }
 
 
-.background-animation {
+/* .background-animation {
     position: fixed;
     top: 0;
     left: 0;
@@ -58,7 +58,7 @@ body {
     bottom: 20%;
     left: 30%;
     animation-delay: 10s;
-}
+} 
 
 @keyframes float {
     0%, 100% {
