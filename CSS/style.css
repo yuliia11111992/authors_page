@@ -415,8 +415,8 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 15px;
-    padding: 18px 40px;
-background: linear-gradient(135deg, #f51515, #8b0000);
+    padding: 10px 22px;
+    background: linear-gradient(135deg, #f51515, #8b0000);
     color: #fff;
     text-decoration: none;
     border-radius: 50px;
@@ -525,5 +525,12 @@ background: linear-gradient(135deg, #f51515, #8b0000);
     .cta-button {
         width: 100%;
         justify-content: center;
+    }
+    .author-role-large {
+    font-size: 1rem;
+    }
+
+    .page-header {
+    padding: 100px 20px 20px;
     }
 }
