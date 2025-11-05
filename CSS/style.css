@@ -540,4 +540,8 @@ body {
     .author-description {
   font-size: 1rem;
     }
+
+    .authors-section {
+  padding: 4px 0;
+}
 }
